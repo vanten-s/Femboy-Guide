@@ -1,9 +1,8 @@
+/* Removal of page navigation */
 .xl2 { display: none; }
 .page-header-section { display: none; }
 
-
-
-
+/* Page reference links styling */
 ul {
 
     padding-left: 0 !important;
@@ -58,5 +57,13 @@ ul > li > a > em {
     padding-left: 0.5rem;
     border-left: 1px solid #e0e0e0;
     margin-left: 0.5rem;
+
+}
+
+/* Images */
+.horizontal {
+
+    display: flex;
+    flex-direction: row;
 
 }
