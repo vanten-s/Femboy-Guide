@@ -27,3 +27,19 @@ This section will teach you the art of becoming a femboy and all its tricks.
 - [Makeup *Hiding your ugliness.*](/en/Tutorials/Makeup)
 - [Coming Out *Telling your acquaintances about it.*](/en/Tutorials/Clothing)
 - [Hate & Dysphoria *Problems you might have.*](/en/Tutorials/Clothing)
+
+# Resources
+
+In this section you can find links to useful information and other resources.
+
+- [Shopping *A list of websites for all your shopping needs.*](/en/Resources/Shopping)
+- [Voice Training *Resources to help you with voice training.*](/en/Resources/VoiceTraining)
+
+# Terminology
+
+Common terms and slang you can hear in the community are explained in this section
+
+- [Femboy *What is a femboy?*](/en/Definitions/Femboy)
+- [Blahaj *Our little ikea shark.*](/en/Definitions/Blahaj)
+- [Programming Socks *Socks mainly used by femboy programmers.*](/en/Definitions/ProgrammingSocks)
+- [Rust *The femboy programming language.*](/en/Definitions/Rust)
