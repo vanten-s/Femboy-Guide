@@ -72,11 +72,12 @@ ul > li > a > em {
 
     width: 100%;
     justify-content: space-evenly;
+    margin-top: 1em;
 
 }
 
 .home-social > a > img {
 
-    max-width: 5em !important;
+    max-width: 7.5em !important;
 
 }
