@@ -10,6 +10,7 @@ dateCreated: 2023-04-08T18:47:05.752Z
 
 # Introduction
 
+The basis of being a femboy is being a **fem**inine **boy**, and that doesn't imply wearing any specific clothing. However, most femboys wear a characteristic style of clothes that is based on the following pieces.
 
 # Top
 ## Hoodies

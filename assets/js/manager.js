@@ -13,7 +13,6 @@ pathName = window.location.pathname.toLowerCase();
 
 if (cssLinks[pathName] !== undefined) {
 
-    console.log('<link rel="stylesheet" type="text/css" href="' + cssLinks[pathName] + '">');
     document.write('<link rel="stylesheet" type="text/css" href="' + cssLinks[pathName] + '">');
 
 }
