@@ -9,7 +9,7 @@ cssLinks = {
 
 }
 
-pathName = window.location.pathName.toLowerCase();
+pathName = window.location.pathname.toLowerCase();
 
 if (cssLinks.contains(pathName)) {
 
