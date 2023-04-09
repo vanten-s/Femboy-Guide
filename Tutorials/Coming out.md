@@ -1,6 +1,6 @@
 ---
-title: Femboy
-description: What is a femboy?
+title: Coming out
+description: Tips for coming out.
 published: true
 date: 2023-04-08T18:56:16.610Z
 tags: tutorial, clothing
