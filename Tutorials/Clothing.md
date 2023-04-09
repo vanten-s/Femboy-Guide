@@ -10,10 +10,15 @@ dateCreated: 2023-04-08T18:47:05.752Z
 
 # Introduction
 
-The basis of being a femboy is being a **fem**inine **boy**, and that doesn't imply wearing any specific clothing. However, most femboys wear a characteristic style of clothes that is based on the following pieces.
+The basis of being a femboy is being a **fem**inine **boy**, and that doesn't imply wearing any specific clothing. However, most femboys wear a characteristic style of clothes that consists mainly on the pieces showcased below.
 
 # Top
 ## Hoodies
+
+A lot of crossdressers like to wear hoodies, specifically oversized ones, since they can be used to hide some of their masculine features like body shape and hair.
+
+*insert pics*
+
 ## Crop tops
 ## Shirts
 ## Arm warmers
