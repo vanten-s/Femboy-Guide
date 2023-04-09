@@ -1,3 +1,0 @@
-// ANY UNAUTHORIZED CHANGES TO THIS SCRIPT WON'T BE MERGED
-
-console.log("will it work?")
