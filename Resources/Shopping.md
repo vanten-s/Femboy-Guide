@@ -2,10 +2,10 @@
 title: Shopping
 description: Best places to shop for femboy clothing
 published: true
-date: 2023-04-08T19:48:32.344Z
+date: 2023-04-09T12:33:13.025Z
 tags: resource
-editor: ckeditor
-dateCreated: 2023-04-08T19:48:32.344Z
+editor: markdown
+dateCreated: 2023-04-08T20:41:55.614Z
 ---
 
 # All types of clothing

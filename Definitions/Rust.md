@@ -2,10 +2,10 @@
 title: Rust
 description: The femboy programming language.
 published: true
-date: 2023-04-08T19:55:31.351Z
+date: 2023-04-09T12:33:10.111Z
 tags: definition, meme
 editor: markdown
-dateCreated: 2023-04-08T19:55:31.351Z
+dateCreated: 2023-04-09T11:28:13.111Z
 ---
 
 # Rust
