@@ -12,8 +12,8 @@ dateCreated: 2023-04-09T09:30:09.696Z
 
 Welcome to the Femboy Wiki! Here you can find all kinds of information about crossdressing and femboys. Wether you are already one, are starting out, want to become one, or don't even know anything about crossdressing, this is your place.
 
-<div class="horizontal">
-    [<img class="home-discord" src="/en/assets/img/discord-square.svg">](https://discord.gg/MWhnfV7j59)
+<div class="horizontal home-social">
+    <a href="https://discord.gg/MWhnfV7j59"><img src="/en/assets/img/discord-square.svg"></a>
 </div>
 
 # Tutorials

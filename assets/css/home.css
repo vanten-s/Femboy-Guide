@@ -67,3 +67,16 @@ ul > li > a > em {
     flex-direction: row;
 
 }
+
+.home-social {
+
+    width: 100%;
+    justify-content: space-evenly;
+
+}
+
+.home-social > img {
+
+    max-width: 200px;
+
+}
