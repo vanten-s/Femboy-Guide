@@ -77,6 +77,6 @@ ul > li > a > em {
 
 .home-social > a > img {
 
-    max-width: 200px;
+    max-width: 5em !important;
 
 }
