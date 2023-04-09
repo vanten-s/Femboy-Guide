@@ -11,7 +11,7 @@ cssLinks = {
 
 pathName = window.location.pathname.toLowerCase();
 
-if (cssLinks.contains(pathName)) {
+if (cssLinks[pathName] !== undefined) {
 
     console.log('<link rel="stylesheet" href="' + repoLink + cssLinks[pathName] + '">');
     document.write('<link rel="stylesheet" href="' + repoLink + cssLinks[pathName] + '">');
