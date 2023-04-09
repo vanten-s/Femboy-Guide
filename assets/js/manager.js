@@ -1,11 +1,11 @@
 // ANY UNAUTHORIZED CHANGES TO THIS SCRIPT WON'T BE MERGED
 
-repoLink = "https://raw.githubusercontent.com/iByNiki/femboy.guide/main/"
+prefix = "/en"
 
 cssLinks = {
 
-    "/": "assets/css/home.css",
-    "/home": "assets/css/home.css"
+    "/": prefix + "/assets/css/home.css",
+    "/home": prefix + "/assets/css/home.css"
 
 }
 
