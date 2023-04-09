@@ -1,0 +1,3 @@
+// ALL UNAUTHORIZED CHANGES TO THIS FILE WON'T BE APPROVED FOR MERGING
+
+console.log("manager enabled");
