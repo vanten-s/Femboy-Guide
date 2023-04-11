@@ -15,7 +15,7 @@ The basis of being a femboy is being a **fem**inine **boy**, and that doesn't im
 # Top
 ## Hoodies
 
-A lot of crossdressers like to wear hoodies, specifically oversized ones, since they can be used to hide some of their masculine features like body shape and hair.
+A lot of femboys like to wear hoodies, specifically oversized ones, since they can be used to hide some of their masculine features like body shape and hair.
 
 *insert pics*
 
