@@ -1,4 +1,4 @@
-# Page for testing
+# Page for testing.
 
 > This is a notification
 {.notif}
