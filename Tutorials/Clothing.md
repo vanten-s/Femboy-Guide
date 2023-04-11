@@ -22,7 +22,7 @@ You will need your measurements, you can learn how to get them from the [measure
 
 A lot of femboys like to wear hoodies, specifically oversized ones, since they can be used to hide some of their masculine features like body shape and hair.
 
-<div class="horizontal">
+<div id="hoodies" class="horizontal">
     <img src="/en/assets/img/hoodie1.jpg">
     <img src="/en/assets/img/hoodie2.jpg">
 </div>

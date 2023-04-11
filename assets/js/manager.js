@@ -11,7 +11,8 @@ mainSheetLink = prefix + "/assets/css/main.css";
 cssLinks = {
 
     "/": prefix + "/assets/css/home.css",
-    "/home": prefix + "/assets/css/home.css"
+    "/home": prefix + "/assets/css/home.css",
+    "/en/Tutorials/Clothing": prefix + "/assets/css/clothing.css"
 
 }
 
