@@ -21,12 +21,14 @@ Welcome to the Femboy Wiki! Here you can find all kinds of information about cro
 This section will teach you the art of becoming a femboy and all its tricks.
 
 - [Clothing *Dressing like a femboy.*](/en/Tutorials/Clothing)
+- [Measurements *Taking measures of your body*](/en/Tutorials/Measure)
 - [Shaving *Getting rid of your body hair.*](/en/Tutorials/Shaving)
 - [Haircare *Taking care of your hair.*](/en/Tutorials/Haircare)
 - [Skincare *Taking care of your skin.*](/en/Tutorials/Skincare)
 - [Makeup *Hiding your ugliness.*](/en/Tutorials/Makeup)
 - [Coming Out *Telling your acquaintances about it.*](/en/Tutorials/Clothing)
 - [Hate & Dysphoria *Problems you might have.*](/en/Tutorials/Clothing)
+- [Texting *Texting like a femboy*](/en/Tutorials/Texting)
 
 # Resources
 
@@ -34,6 +36,7 @@ In this section you can find links to useful information and other resources.
 
 - [Shopping *A list of websites for all your shopping needs.*](/en/Resources/Shopping)
 - [Voice Training *Resources to help you with voice training.*](/en/Resources/VoiceTraining)
+- [Silhouette *Dealing with your masculine body features*](/en/Resources/Silhouette)
 
 # Terminology
 
