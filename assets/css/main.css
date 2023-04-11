@@ -1,0 +1,108 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"); /* Font Awesome cdn */
+
+.notif {
+
+    padding: 0 1rem 1rem;
+    background-color: #eceff1;
+    border-left: 55px solid #607d8b;
+    border-radius: .5rem;
+    margin: 1rem 0;
+    position: relative;
+
+}
+
+.notif:before {
+
+    display: inline-block;
+    font: normal normal normal 24px/1 Material Design Icons,sans-serif;
+    position: absolute;
+    margin-top: -12px;
+    top: 50%;
+    left: -38px;
+    color: hsla(0,0%,100%,.7);
+    content: '<i class="fa-solid fa-exclamation"></i>';
+
+}
+
+.notif > p:first-child .emoji {
+    margin-right: .5rem
+}
+
+.notif.align-center > p {
+    -js-display: flex;
+    display: flex;
+    align-items: center
+}
+
+.notif.is-info {
+    background-color: #e3f2fd;
+    border-color: #64b5f6;
+    color: #0d47a1
+}
+
+.notif.is-info:before {
+    content: '<i class="fa-solid fa-comments"></i>';
+}
+
+.notif.is-info code:not([class^=language-]) {
+    background-color: #e3f2fd;
+    color: #1565c0
+}
+
+.theme--dark .notif.is-info {
+    background-color: #0d47a1;
+    color: #e3f2fd;
+    border-color: #2196f3
+}
+
+.notif.is-warning {
+    background-color: #fff3e0;
+    border-color: #ffb74d;
+    color: #b33f00
+}
+
+.notif.is-warning:before {
+    content: '<i class="fa-solid fa-triangle-exclamation"></i>';
+}
+
+.notif.is-warning code:not([class^=language-]) {
+    background-color: #fff3e0;
+    color: #ef6c00
+}
+
+.theme--dark .notif.is-warning {
+    background-color: #cd4800;
+    color: #ffe0b2;
+    border-color: #ff9800;
+    box-shadow: 0 0 2px 0 #212121
+}
+
+.notif.is-danger {
+    background-color: #ffebee;
+    border-color: #e57373;
+    color: #b71c1c
+}
+
+.notif.is-danger:before {
+    content: '<i class="fa-solid fa-circle-exclamation"></i>';
+}
+
+.notif.is-danger code:not([class^=language-]) {
+    background-color: #ffebee;
+    color: #c62828
+}
+
+.notif.is-success {
+    background-color: #e8f5e9;
+    border-color: #81c784;
+    color: #1b5e20
+}
+
+.notif.is-success:before {
+    content: '<i class="fa-solid fa-check"></i>';
+}
+
+.notif.is-success code:not([class^=language-]) {
+    background-color: #e8f5e9;
+    color: #2e7d32
+}

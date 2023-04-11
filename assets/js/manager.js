@@ -3,7 +3,10 @@
 // This script is used to add css to the pages, which is not supported natively by wiki.js
 // (it is, but it's not compatible with github)
 
-prefix = "/en"
+// An html code embedding the script is added at the end of the body tag
+
+prefix = "/en";
+mainSheetLink = prefix + "/assets/css/main.css";
 
 cssLinks = {
 
@@ -14,7 +17,9 @@ cssLinks = {
 
 pathName = window.location.pathname.toLowerCase();
 
-if (cssLinks[pathName] !== undefined) {
+document.write('<link rel="stylesheet" type="text/css" href="' + mainSheetLink + '">'); // main style inject
+
+if (cssLinks[pathName] !== undefined) { // page style inject
 
     document.write('<link rel="stylesheet" type="text/css" href="' + cssLinks[pathName] + '">');
 
