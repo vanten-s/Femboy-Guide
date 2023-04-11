@@ -1,5 +1,11 @@
 #hoodies > img {
 
-    max-width: 20em;
+    max-width: 17.5em;
+
+}
+
+#hoodies {
+
+    justify-content: space-evenly;
 
 }
