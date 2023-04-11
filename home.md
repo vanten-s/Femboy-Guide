@@ -26,8 +26,8 @@ This section will teach you the art of becoming a femboy and all its tricks.
 - [Skincare *Taking care of your skin.*](/en/Tutorials/Skincare)
 - [Makeup *Hiding your ugliness.*](/en/Tutorials/Makeup)
 - [Measurements *Taking measures of your body*](/en/Tutorials/Measure)
-- [Coming Out *Telling your acquaintances about it.*](/en/Tutorials/Clothing)
-- [Hate & Dysphoria *Problems you might have.*](/en/Tutorials/Clothing)
+- [Coming Out *Telling your acquaintances about it.*](/en/Tutorials/ComingOut)
+- [Hate & Dysphoria *Problems you might have.*](/en/Tutorials/HateDysphoria)
 - [Texting *Texting like a femboy*](/en/Tutorials/Texting)
 
 # Resources
