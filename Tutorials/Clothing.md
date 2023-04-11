@@ -15,7 +15,7 @@ The base of being a femboy is being a **fem**inine **boy**, and that doesn't imp
 # Buying clothes
 
 All the clothes can be bought from websites listed on the [shopping section](/en/Resources/Shopping).
-You will need your measurements, you can learn how to get them from the [measurements tutorial](en/Tutorials/Measure)
+You will need your measurements, you can learn how to get them from the [measurements tutorial](/en/Tutorials/Measure)
 
 # Top
 ## Hoodies
