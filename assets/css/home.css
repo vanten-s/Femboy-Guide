@@ -60,14 +60,6 @@ ul > li > a > em {
 
 }
 
-/* Images */
-.horizontal {
-
-    display: flex;
-    flex-direction: row;
-
-}
-
 .home-social {
 
     width: 100%;

@@ -12,19 +12,25 @@ dateCreated: 2023-04-08T21:27:30.047Z
 
 The basis of being a femboy is being a **fem**inine **boy**, and that doesn't imply wearing any specific clothing. However, most femboys wear a characteristic style of clothes that consists mainly on the pieces showcased below.
 
-# Where to buy
+# Buying clothes
 
-All the clothes can be bought from websites on the [Shopping section](/en/Resources/Shopping).
+All the clothes can be bought from websites listed on the [shopping section](/en/Resources/Shopping).
+You will need your measurements, you can learn how to get them from the [measurements tutorial](en/Resources/Measure)
 
 # Top
 ## Hoodies
 
 A lot of femboys like to wear hoodies, specifically oversized ones, since they can be used to hide some of their masculine features like body shape and hair.
 
-*insert pics*
+<div class="horizontal">
+    <img src="/en/assets/img/hoodie1.jpg">
+    <img src="/en/assets/img/hoodie2.jpg">
+</div>
+
+## Shirts
 
 ## Crop tops
-## Shirts
+
 ## Arm warmers
 
 # Bottom
