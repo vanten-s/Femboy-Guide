@@ -2,10 +2,10 @@
 title: Silhouette
 description: Learn how to deal with your masculine body features.
 published: true
-date: 2023-04-09T12:33:29.293Z
-tags: resources, silhouette
+date: 2023-04-11T18:56:30.500Z
+tags: silhouette, resource
 editor: markdown
-dateCreated: 2023-04-09T09:22:28.099Z
+dateCreated: 2023-04-11T17:41:33.334Z
 ---
 
 # Silhouette
