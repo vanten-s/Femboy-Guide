@@ -1,4 +1,4 @@
-.vmain .contents blockquote.notif {
+.v-main .contents blockquote.notif {
 
     padding: 0 1rem 1rem;
     background-color: #eceff1;
@@ -9,7 +9,7 @@
 
 }
 
-.vmain .contents blockquote.notif:before {
+.v-main .contents blockquote.notif:before {
 
     display: inline-block;
     font: normal normal normal 24px/1 Material Design Icons,sans-serif;
@@ -22,72 +22,72 @@
 
 }
 
-.vmain .contents blockquote.notif > p:first-child .emoji {
+.v-main .contents blockquote.notif > p:first-child .emoji {
     margin-right: .5rem
 }
 
-.vmain .contents blockquote.notif.align-center > p {
+.v-main .contents blockquote.notif.align-center > p {
     -js-display: flex;
     display: flex;
     align-items: center
 }
 
-.vmain .contents blockquote.notif.is-info {
+.v-main .contents blockquote.notif.is-info {
     background-color: #e3f2fd;
     border-color: #64b5f6;
     color: #0d47a1
 }
 
-.vmain .contents blockquote.notif.is-info:before {
+.v-main .contents blockquote.notif.is-info:before {
     content: "󰋼"
 }
 
-.vmain .contents blockquote.notif.is-info code:not([class^=language-]) {
+.v-main .contents blockquote.notif.is-info code:not([class^=language-]) {
     background-color: #e3f2fd;
     color: #1565c0
 }
 
-.vmain .contents blockquote.notif.is-warning {
+.v-main .contents blockquote.notif.is-warning {
     background-color: #fff3e0;
     border-color: #ffb74d;
     color: #b33f00
 }
 
-.vmain .contents blockquote.notif.is-warning:before {
+.v-main .contents blockquote.notif.is-warning:before {
     content: "󰀦"
 }
 
-.vmain .contents blockquote.notif.is-warning code:not([class^=language-]) {
+.v-main .contents blockquote.notif.is-warning code:not([class^=language-]) {
     background-color: #fff3e0;
     color: #ef6c00
 }
 
-.vmain .contents blockquote.notif.is-danger {
+.v-main .contents blockquote.notif.is-danger {
     background-color: #ffebee;
     border-color: #e57373;
     color: #b71c1c
 }
 
-.vmain .contents blockquote.notif.is-danger:before {
+.v-main .contents blockquote.notif.is-danger:before {
     content: "󰅙"
 }
 
-.vmain .contents blockquote.notif.is-danger code:not([class^=language-]) {
+.v-main .contents blockquote.notif.is-danger code:not([class^=language-]) {
     background-color: #ffebee;
     color: #c62828
 }
 
-.vmain .contents blockquote.notif.is-success {
+.v-main .contents blockquote.notif.is-success {
     background-color: #e8f5e9;
     border-color: #81c784;
     color: #1b5e20
 }
 
-.vmain .contents blockquote.notif.is-success:before {
+.v-main .contents blockquote.notif.is-success:before {
     content: "󰸞"
 }
 
-.vmain .contents blockquote.notif.is-success code:not([class^=language-]) {
+.v-main .contents blockquote.notif.is-success code:not([class^=language-]) {
     background-color: #e8f5e9;
     color: #2e7d32
 }
