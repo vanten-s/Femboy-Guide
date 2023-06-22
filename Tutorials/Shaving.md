@@ -16,7 +16,7 @@ There are several ways to temporarily get rid of your body hair, ranging from th
 ## Razor
 This is the most accessible way of dealing with body hair. However, it might be hard to deal with long hair, and you might have to do it more often than you would like.
 
-<!-- To be completed -->
+<!-- TODO: Be completed -->
 | Info | <!-- --> |
 |:--------:|:--------:|
 | Duration | 99 days |
@@ -26,7 +26,7 @@ This is the most accessible way of dealing with body hair. However, it might be 
 There are a lot of types of razors, but this article will focus on three:
 1. **Disposable razors:** One-time use razors you throw away when the blade wears out. 
 2. **Cartridge razors:** They allow you to replace the blade cartridges, some also adapt to the shape of your face/body.
-3. **Safety razors:** 
+3. **Safety razors:** Safety
 
 ### Face
 
