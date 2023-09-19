@@ -1,9 +1,11 @@
 ---
-title: Blahaj
-description: What does blahaj mean?
+title: Blåhaj
+description: What does blåhaj mean?
 published: true
 date: 2023-04-11T18:49:09.435Z
-tags: tutorial, clothing
+tags:
+  - tutorial
+  - clothing
 editor: markdown
 dateCreated: 2023-04-11T17:41:29.504Z
 ---
